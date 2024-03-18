@@ -2,7 +2,7 @@ package chap02;
 
 import java.util.Scanner;
 
-public class Rectangle {
+public class Task01 {
 
 	public static void main(String[] args) {
 		double w,h,area;
